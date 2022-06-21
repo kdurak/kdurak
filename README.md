@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kevser!</h1>
 <h3 align="left">A passionate junior data analyst from Melbourne, Australia.</h3>
 
-<h3 align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kdurak&title=Commits, PullRequest, Repositories" alt="kdurak" /></h3>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kdurak&title=Commits, PullRequest, Repositories" alt="kdurak" /> </a> </p>
+
 
 - 🔭 I’m currently working on [Deep Painting App](https://deep-painting-stream-1618.herokuapp.com)
 
